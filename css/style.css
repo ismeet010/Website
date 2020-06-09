@@ -157,8 +157,9 @@ nav {
     display: initial;
     font-weight: 600;
     font-size: 35px;
-    color: #719cfe;
+    color: black;
     text-shadow: 2px 5px 3px rgba(0, 0, 0, 0.06);
+
 }
 
 /* Since we'll have the "ul li" "float:left"
